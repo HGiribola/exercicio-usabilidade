@@ -1,0 +1,14 @@
+1. Como o aplicativo fornece visibilidade sobre saldos de contas e status de transações?
+R: No app do Itaú é possível tornar visível o saldo em conta atravéz de um botão intuitivo e divide as transações em etapas e por ultimo uma confirmação de transação, por exemplo: tela de inserção de valor, tela de fornecimento de dados do destinatário e, por último, tela de confirmação.
+
+2. Quais mecanismos de feedback são empregados para confirmar transações bem-sucedidas ou validar entradas de formulários?
+R: Para ambos os sistemas é feito uma confirmação de transação e de formulários via e-mail, SMS, whatsapp e/ou pelo aplicativo
+
+3. Os elementos da interface são consistentes com padrões de design estabelecidos, como o uso de ícones padrão para ações comuns?
+R: Sim, é predominante o uso das cores azul, laranja e branco. Além de ícones com bordas arredondados.
+
+4. O aplicativo oferece flexibilidade, como permitir que os usuários personalizem alertas ou o painel de controle?
+R: Sim. O aplicativo permite adicionar atalhos na tela inicial e o bloqueio de notifição. Além de que na central de ajudas é possível configurar a acessibilidade coerente com a necessidade do usuário.
+
+5. Como a escolha da modalidade da interface(por exemplo, tela sensível ao toque para entrada, comando de voz para a navegação) impacta a usabilidade para diferentes grupos de usuários?  
+R: Sim, conforme a necessidade de acessibilidade requerida na central de ajudas disponibilizada no aplicativo do Itaú
